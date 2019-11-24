@@ -9,6 +9,7 @@ A simple iOS application developed in Swift 3.2 using GLKit that can be used to 
 - Deselect All Faces
 - Three modes of interacting with faces
     - Extrude
+        - Translates if multiple taps
     - Rotate
     - Select
 - App Settings
